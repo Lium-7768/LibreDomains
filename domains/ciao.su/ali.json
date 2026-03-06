@@ -1,0 +1,19 @@
+{
+  "description": "博客网站",
+  "subdomain": "ali",
+  "domain": "ciao.su",
+  "owner": {
+    "name": "liummei",
+    "github": "Lium-7768",
+    "email": "lium840471184@gmail.com"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "www",
+      "content": "lium-7768.github.io",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
